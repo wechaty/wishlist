@@ -1,5 +1,7 @@
 # whishlist
 
+[![Powered by Wechaty](https://img.shields.io/badge/Powered%20By-Wechaty-brightgreen.svg)](https://github.com/Wechaty/wechaty)
+
 Puppets, Bots, and other Tooling Requested by Community Members
 
 Puppets, bots, and other tooling requested by community members. Anyone is welcome to start working on the list, leave a link to your GitHub repo on the idea so it can be closed as "started"!
