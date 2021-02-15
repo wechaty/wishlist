@@ -18,14 +18,12 @@ Ideas with multiple labels are the average of the two. For example, `easy medium
 
 1. This repository is inspired by <https://github.com/turt2live/matrix-wishlist>
 
-## Author
+## Maintainers
 
-[Huan LI](https://github.com/huan) ([李卓桓](http://linkedin.com/in/zixia)) zixia@zixia.net
-
-[![Profile of Huan LI (李卓桓) on StackOverflow](https://stackexchange.com/users/flair/265499.png)](https://stackexchange.com/users/265499)
+[Wechaty Contributors](https://wechaty.js.org/contributors/)
 
 ## Copyright & License
 
-* Code & Docs © 2020-now Huan LI \<zixia@zixia.net\>
+* Code & Docs © 2020-now Huan LI \<zixia@zixia.net\> and Wechaty Contributors
 * Code released under the Apache-2.0 License
 * Docs released under Creative Commons
