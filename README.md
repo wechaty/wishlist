@@ -6,6 +6,8 @@ Puppets, Bots, and other Tooling Requested by Community Members
 
 Puppets, bots, and other tooling requested by community members. Anyone is welcome to start working on the list, leave a link to your GitHub repo on the idea so it can be closed as "started"!
 
+Read all wishlist from [Issues](https://github.com/wechaty/wishlist/issues)
+
 # Label Legend
 
 * `easy` - Weekend/day project
